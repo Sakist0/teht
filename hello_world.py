@@ -1,3 +1,3 @@
-print("Hello world!")
+sdaprint("Hello world!")
 print("Hello once again")
 print("Hello darkness my old friend")
